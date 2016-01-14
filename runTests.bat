@@ -1,0 +1,1 @@
+call vendor\bin\phpunit.bat --bootstrap tests\bootstrap.php tests\AbstractEnumTest.php
