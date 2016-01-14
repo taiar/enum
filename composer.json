@@ -8,8 +8,10 @@
       "homepage": "http://github.com/taiar/"
     }
   ],
+  "require": {
+    "php":             ">=5.3.3"
+  }
   "require-dev": {
-    "php":             ">=5.3.3",
     "phpunit/phpunit": "4.*"
   },
   "autoload": {
