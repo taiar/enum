@@ -1,6 +1,7 @@
 {
   "name": "taiar/enum",
   "description": "Simple Enum implemetation.",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "André Taiar",
