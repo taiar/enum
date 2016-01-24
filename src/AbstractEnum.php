@@ -1,6 +1,6 @@
 <?php
 
-namespace taiar\Enum;
+namespace taiar\enum;
 
 /**
  * Enum class
