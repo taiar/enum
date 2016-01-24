@@ -1,7 +1,7 @@
 <?php
 
 namespace EnumTests;
-use Enum\AbstractEnum;
+use taiar\Enum\AbstractEnum;
 
 class TestEnum extends AbstractEnum {
 
