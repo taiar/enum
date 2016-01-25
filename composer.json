@@ -16,8 +16,6 @@
     "phpunit/phpunit": "4.*"
   },
   "autoload": {
-    "psr-0": {
-      "taiar\\enum\\": "src"
-    }
+    "files": ["src/AbstractEnum.php"]
   }
 }
